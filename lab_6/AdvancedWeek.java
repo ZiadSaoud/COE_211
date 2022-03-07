@@ -7,7 +7,7 @@ public class AdvancedWeek {
 	private	String  day_5 = "Friday";
 	private	String  day_6 = "Saturday";
 	private	String  day_7 = "Sunday";
-    private int day_1_index = 1;
+    	private int day_1_index = 1;
     // printing out the days
     public void printDays() {
        System.out.println(day_1_index++ + ": "+day_1 +",\n"+
